@@ -1,1 +1,1 @@
-^https?:\/\/34.93.169.54/* url request-header Host:171.248.112.61:8080
+^https?:\/\/34.93.169.54/* url request-header (\r\n)Host:.+(\r\n) request-header $1Host: 171.248.112.61:8080$2
